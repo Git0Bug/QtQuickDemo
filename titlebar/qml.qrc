@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>icon/close.png</file>
+        <file>icon/homeicon.png</file>
+        <file>icon/minimize.png</file>
+        <file>icon/toggle.png</file>
+        <file>icon/toggle2.png</file>
+        <file>TitleBar.qml</file>
+    </qresource>
+</RCC>
